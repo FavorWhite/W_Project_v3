@@ -8,10 +8,10 @@
 }
 
 .side-bar{
-    flex-grow: 3;
+    flex-grow: 2;
     background: #fff;
     border-top-left-radius: 55px;
-    border-bottom-left-radius: 55px;   
+    border-bottom-left-radius: 55px;
 }
 
 .main-content{

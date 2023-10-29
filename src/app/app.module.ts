@@ -5,11 +5,13 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { LocationSearchComponent } from './location-search/location-search.component';
+import { ForecastComponent } from './forecast/forecast.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    LocationSearchComponent
+    LocationSearchComponent,
+    ForecastComponent
     ],
   imports: [
     BrowserModule,

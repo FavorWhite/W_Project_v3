@@ -1,0 +1,14 @@
+.forecast-wrapper {
+    position: relative;
+}
+
+.forecast-icon-big {
+    margin: 30px 0 0 0;
+    text-align: center;
+    height: 270px;
+}
+
+.forecast-icon-big .material-symbols-outlined {
+    font-size: 270px;
+}
+
