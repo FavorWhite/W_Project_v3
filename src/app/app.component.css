@@ -1,0 +1,22 @@
+.main-content-wrapper{
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    height: 90%;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.side-bar{
+    flex-grow: 3;
+    background: #fff;
+    border-top-left-radius: 55px;
+    border-bottom-left-radius: 55px;   
+}
+
+.main-content{
+    flex-grow: 6;
+    background: #F6F6F8;
+    border-top-right-radius: 55px;
+    border-bottom-right-radius: 55px;
+}
