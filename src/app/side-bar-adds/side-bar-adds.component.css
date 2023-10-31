@@ -1,0 +1,10 @@
+.side-bar-adds-wrapper{
+    width: 100%;
+    line-height: 100px;
+    border: 1px solid #b3b3b3;
+    text-align: center;
+}
+
+.side-bar-adds-wrapper span{
+    vertical-align: middle;
+}

@@ -1,5 +1,6 @@
 .forecast-wrapper {
     position: relative;
+    margin-bottom: 55px;
 }
 
 .forecast-icon-big {
@@ -45,4 +46,8 @@
 }
 .clouds-icon, .precipitation-icon{
     margin-right: 10px;
+}
+
+.clouds{
+    margin-bottom: 10px;
 }
