@@ -12,3 +12,37 @@
     font-size: 270px;
 }
 
+.date {
+
+    margin-top: 10px;
+}
+
+.day-of-week {
+    font-size: 27px;
+}
+
+.hour {
+    font-size: 26px;
+    color: #b6b6b6;
+}
+
+.metric-temp {
+    font-size: 40px;
+    vertical-align: top;
+}
+
+.temp-numb {
+    font-size: 70px;
+}
+
+.divider {
+    margin: 35px 0;
+}
+
+.clouds-icon, .clouds-text,
+.precipitation-icon, .precipitation-text{
+    vertical-align: middle;
+}
+.clouds-icon, .precipitation-icon{
+    margin-right: 10px;
+}

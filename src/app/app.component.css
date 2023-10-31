@@ -12,10 +12,11 @@
     background: #fff;
     border-top-left-radius: 55px;
     border-bottom-left-radius: 55px;
+    padding: 0 70px;
 }
 
 .main-content{
-    flex-grow: 6;
+    flex-grow: 12;
     background: #F6F6F8;
     border-top-right-radius: 55px;
     border-bottom-right-radius: 55px;
