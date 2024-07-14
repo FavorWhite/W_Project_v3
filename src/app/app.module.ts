@@ -7,13 +7,15 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { LocationSearchComponent } from './location-search/location-search.component';
 import { ForecastComponent } from './forecast/forecast.component';
 import { SideBarAddsComponent } from './side-bar-adds/side-bar-adds.component';
+import { ForecastNavComponent } from './forecast-nav/forecast-nav.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     LocationSearchComponent,
     ForecastComponent,
-    SideBarAddsComponent
+    SideBarAddsComponent,
+    ForecastNavComponent
     ],
   imports: [
     BrowserModule,
